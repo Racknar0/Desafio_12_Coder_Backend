@@ -1,4 +1,3 @@
-# Desafío 14
 
 ## Usando el objeto Process
 
